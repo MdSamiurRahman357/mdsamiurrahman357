@@ -44,7 +44,7 @@ These certifications reflect my commitment to continuous learning and my ability
 ## 📫 Connect With Me  
 
 - 🌐 GitHub: [mdsamiurrahman357](https://github.com/mdsamiurrahman357)  
-- ✉️ Email: *[your professional email here]*  
+- ✉️ Email: *[rsami9976@gmail.com]*  
 
 ---
 
