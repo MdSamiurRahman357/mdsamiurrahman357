@@ -18,7 +18,7 @@ As part of my learning journey, I have successfully completed practical projects
 - 📚 [Technical Documentation Page](https://mdsamiurrahman357.github.io/fcc-technical-documentation)  
 - 🛍️ [Product Landing Page](https://mdsamiurrahman357.github.io/fcc-product-landing-page)  
 - 👨‍💻 [Personal Portfolio Webpage](https://mdsamiurrahman357.github.io/fcc-personal-portfolio-webpage)  
-- 🎓 [My Certifications](https://mdsamiurrahman357.github.io/my-certifications)  
+- 🎓 [My Certifications](https://freecodecamp.org/certification/mdsamiurrahman/responsive-web-design) 
 
 ---
 
