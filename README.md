@@ -15,7 +15,8 @@ As part of my learning journey, I have successfully completed practical projects
 
 - 📝 [Survey Form](https://mdsamiurrahman357.github.io/fcc-survey-form)  
 - 📖 [Tribute Page](https://mdsamiurrahman357.github.io/fcc-tribute-page)  
-- 📚 [Technical Documentation Page](https://mdsamiurrahman357.github.io/fcc-technical-documentation)  
+- 📚 [Technical Documentation Page](https://mdsamiurrahman357.github.io/fcc-technical-documentation-page/)
+
 - 🛍️ [Product Landing Page](https://mdsamiurrahman357.github.io/fcc-product-landing-page)  
 - 👨‍💻 [Personal Portfolio Webpage](https://mdsamiurrahman357.github.io/fcc-personal-portfolio-webpage)  
 - 🎓 [My Certifications](https://freecodecamp.org/certification/mdsamiurrahman/responsive-web-design) 
